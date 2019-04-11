@@ -31,4 +31,5 @@ $ ip addr
     inet 192.168.100.195/24. (This here.)
 ```
 *Access your browser: 192.168.100.195 and this page*
- ![enter image description here](https://lh3.googleusercontent.com/f_zm9FRNnmC86WA6pZyJFuOEzrmEFlaH0FVAzPDep_cZv3YoI0bm7d0BXZep2acSAecTNbDcdJgH=s500 "screenshot-web-server")
+
+ ![Image access ip server](https://lh3.googleusercontent.com/f_zm9FRNnmC86WA6pZyJFuOEzrmEFlaH0FVAzPDep_cZv3YoI0bm7d0BXZep2acSAecTNbDcdJgH=s500 "screenshot-web-server")
